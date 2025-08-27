@@ -66,7 +66,7 @@
                 "fields": {}
             },
             "CPulseGraphDef": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -96,7 +96,7 @@
                 "fields": {}
             },
             "CPulse_ResumePoint": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {}
             },
@@ -282,7 +282,7 @@
                 "fields": {}
             },
             "CPulseCell_WaitForCursorsWithTagBase__CursorState_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {
                     "m_TagName": 0
@@ -515,7 +515,7 @@
                 "fields": {}
             },
             "CAttributeManager__cached_attribute_float_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {
                     "iAttribHook": 8,
@@ -677,7 +677,7 @@
                 }
             },
             "CPulseCell_LimitCount__InstanceState_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -936,7 +936,7 @@
                 }
             },
             "CBasePulseGraphInstance": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseInstanceDomainInfo",
@@ -946,7 +946,7 @@
                 "fields": {}
             },
             "CProjectedTextureBase": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "m_hTargetEntity",
@@ -1133,7 +1133,7 @@
                 }
             },
             "CPulseCell_WaitForCursorsWithTag": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -2361,7 +2361,7 @@
                 }
             },
             "CCSPointScriptExtensions_weapon_cs_base": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -2379,7 +2379,7 @@
                 "fields": {}
             },
             "PulseSelectorOutflowList_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -2436,7 +2436,7 @@
                 "fields": {}
             },
             "CPulseCell_BaseState": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -2450,7 +2450,7 @@
                 "fields": {}
             },
             "CPulseCell_Value_RandomFloat": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -2484,7 +2484,7 @@
                 "fields": {}
             },
             "CSPerRoundStats_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "m_iKills",
@@ -2574,7 +2574,7 @@
                 "fields": {}
             },
             "CPulseCell_BaseLerp": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -2600,7 +2600,7 @@
                 }
             },
             "CCSPointScriptExtensions_observer": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -2671,7 +2671,7 @@
                 }
             },
             "CSNetworkableLoadout_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {
                     "m_unSlot": 1194,
@@ -2717,7 +2717,7 @@
                 }
             },
             "CPulseCell_BaseFlow": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -2732,7 +2732,7 @@
                 "fields": {}
             },
             "CCSGameModeRules_Deathmatch": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "m_flDMBonusStartTime",
@@ -2800,7 +2800,7 @@
                 "fields": {}
             },
             "CPulseCell_Outflow_StringSwitch": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -2863,7 +2863,7 @@
                 }
             },
             "CPulseCell_IntervalTimer": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -2900,7 +2900,7 @@
                 }
             },
             "CPulseCell_Value_Curve": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -2997,7 +2997,7 @@
                 }
             },
             "CPulseCell_Step_EntFire": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -3289,14 +3289,14 @@
                 }
             },
             "C_SceneEntity__QueuedEvents_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {
                     "starttime": 0
                 }
             },
             "CPulseCursorFuncs": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -3336,7 +3336,7 @@
                 }
             },
             "CPulseCell_Unknown": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {
                     "m_UnknownKeys": 72
@@ -3934,7 +3934,7 @@
                 "fields": {}
             },
             "CPulse_OutflowConnection": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {
                     "m_OutflowRegisterMap": 24,
@@ -4031,7 +4031,7 @@
                 }
             },
             "C_BaseEntityAPI": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -4247,7 +4247,7 @@
                 "fields": {}
             },
             "CPulseAnimFuncs": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -4272,7 +4272,7 @@
                 }
             },
             "CSMatchStats_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "m_iEnemy5Ks",
@@ -4511,7 +4511,7 @@
                 }
             },
             "CLogicRelayAPI": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -4685,7 +4685,7 @@
                 "fields": {}
             },
             "CPulseCell_Inflow_GraphHook": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -4768,7 +4768,7 @@
                 }
             },
             "CPulseExecCursor": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {}
             },
@@ -4780,7 +4780,7 @@
                 }
             },
             "CPulse_CallInfo": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -4802,7 +4802,7 @@
                 "fields": {}
             },
             "CPulseCell_BaseYieldingInflow": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -4893,7 +4893,7 @@
                 }
             },
             "CPulseCell_Inflow_Wait": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -4938,7 +4938,7 @@
                 "fields": {}
             },
             "CPulseCell_Step_CallExternalMethod": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -5075,7 +5075,7 @@
                 }
             },
             "C_CSGameRules": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "m_bFreezePeriod",
@@ -5644,7 +5644,7 @@
                 }
             },
             "CCSPointScript": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseInstanceDomainInfo",
@@ -5973,7 +5973,7 @@
                 }
             },
             "C_EconEntity__AttachedModelData_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {
                     "m_iModelDisplayFlags": 0
@@ -6110,7 +6110,7 @@
                 }
             },
             "CPulseCell_LerpCameraSettings": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -6151,7 +6151,7 @@
                 "fields": {}
             },
             "CPulseCell_PlaySequence__CursorState_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -6182,7 +6182,7 @@
                 }
             },
             "PulseNodeDynamicOutflows_t__DynamicOutflow_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -6285,7 +6285,7 @@
                 }
             },
             "CPulseCell_Inflow_Yield": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -6565,7 +6565,7 @@
                 "fields": {}
             },
             "CPulseCell_Inflow_EntOutputHandler": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -6596,7 +6596,7 @@
                 "fields": {}
             },
             "CBasePlayerControllerAPI": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -6686,7 +6686,7 @@
                 "fields": {}
             },
             "CPulseCell_LimitCount": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -7669,7 +7669,7 @@
                 }
             },
             "CCSPointScriptExtensions_player": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -7709,14 +7709,14 @@
                 }
             },
             "C_RopeKeyframe__CPhysicsDelegate": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {
                     "m_pKeyframe": 8
                 }
             },
             "CPulseCell_Step_PublicOutput": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -7745,7 +7745,7 @@
                 "fields": {}
             },
             "CBasePlayerWeaponVData": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -7822,7 +7822,7 @@
                 }
             },
             "CPulseCell_Timeline__TimelineEvent_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -7843,7 +7843,7 @@
                 }
             },
             "CFilterMultipleAPI": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -7925,7 +7925,7 @@
                 }
             },
             "PredictedDamageTag_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "nTagTick",
@@ -7975,14 +7975,14 @@
                 }
             },
             "CPulseCell_IsRequirementValid__Criteria_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {
                     "m_bIsValid": 0
                 }
             },
             "CPulseCell_Inflow_Method": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -8068,7 +8068,7 @@
                 }
             },
             "CCSGameModeRules_Noop": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {}
             },
@@ -8284,7 +8284,7 @@
                 "fields": {}
             },
             "CBasePlayerVData": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -8381,7 +8381,7 @@
                 }
             },
             "CPulseCell_Inflow_BaseEntrypoint": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -8394,7 +8394,7 @@
                 }
             },
             "CPulseCell_Outflow_CycleOrdered__InstanceState_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -8411,7 +8411,7 @@
                 "fields": {}
             },
             "C_RetakeGameRules": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "m_nMatchSeed",
@@ -8448,7 +8448,7 @@
                 }
             },
             "CPulseCell_Outflow_IntSwitch": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -8658,7 +8658,7 @@
                 "fields": {}
             },
             "PulseNodeDynamicOutflows_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -8810,7 +8810,7 @@
                 }
             },
             "CPointTemplateAPI": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -8932,7 +8932,7 @@
                 }
             },
             "SignatureOutflow_Resume": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {}
             },
@@ -9083,7 +9083,7 @@
                 "fields": {}
             },
             "C_BaseFlex__Emphasized_Phoneme": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {
                     "m_bRequired": 28,
@@ -9239,7 +9239,7 @@
                 }
             },
             "CPulseCell_WaitForObservable": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -9287,7 +9287,7 @@
                 "fields": {}
             },
             "CPulseCell_FireCursors": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -9676,7 +9676,7 @@
                 "fields": {}
             },
             "CCSGameModeRules": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {
                     "__m_pChainEntity": 8
@@ -9729,7 +9729,7 @@
                 "fields": {}
             },
             "CPulseMathlib": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -9819,7 +9819,7 @@
                 "fields": {}
             },
             "CPulseCell_IsRequirementValid": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -9930,7 +9930,7 @@
                 }
             },
             "EntitySpottedState_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "m_bSpotted",
@@ -9974,7 +9974,7 @@
                 "fields": {}
             },
             "CPulseCell_InlineNodeSkipSelector": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -10326,7 +10326,7 @@
                 "fields": {}
             },
             "C_MultiplayRules": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {}
             },
@@ -10342,7 +10342,7 @@
                 }
             },
             "CPulseCell_Base": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -10354,7 +10354,7 @@
                 }
             },
             "CPulseCell_BaseRequirement": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -10364,7 +10364,7 @@
                 "fields": {}
             },
             "CPulseCell_Outflow_CycleOrdered": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -10581,7 +10581,7 @@
                 }
             },
             "CDamageRecord": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "m_PlayerDamager",
@@ -11680,7 +11680,7 @@
                 }
             },
             "CBaseTriggerAPI": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -11719,7 +11719,7 @@
                 }
             },
             "CPulseArraylib": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -12044,7 +12044,7 @@
                 "fields": {}
             },
             "CPulseCell_Outflow_CycleShuffled__InstanceState_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -12611,7 +12611,7 @@
                 }
             },
             "CPulseCell_BaseLerp__CursorState_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -12851,7 +12851,7 @@
                 "fields": {}
             },
             "CPulseCell_Timeline": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -12878,7 +12878,7 @@
                 }
             },
             "CPulseCell_Outflow_CycleRandom": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -12950,7 +12950,7 @@
                 }
             },
             "CPulseCell_WaitForCursorsWithTagBase": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -13120,7 +13120,7 @@
                 }
             },
             "CPulseCell_CursorQueue": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -13206,7 +13206,7 @@
                 }
             },
             "CPulseCell_PlaySequence": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -13322,7 +13322,7 @@
                 }
             },
             "CPathSimpleAPI": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -13340,7 +13340,7 @@
                 "fields": {}
             },
             "CCSWeaponBaseVData": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -13440,7 +13440,7 @@
                 }
             },
             "CPulseCell_BooleanSwitchState": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -13589,7 +13589,7 @@
                 }
             },
             "OutflowWithRequirements_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -13609,7 +13609,7 @@
                 "fields": {}
             },
             "CCSGameModeRules_ArmsRace": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "m_WeaponSequence",
@@ -13831,7 +13831,7 @@
                 "fields": {}
             },
             "ViewAngleServerChange_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "nType",
@@ -13894,7 +13894,7 @@
                 }
             },
             "CPulseCell_Inflow_ObservableVariableListener": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -14227,7 +14227,7 @@
                 }
             },
             "C_SingleplayRules": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {}
             },
@@ -14269,7 +14269,7 @@
                 "fields": {}
             },
             "CPulseCell_Value_Gradient": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -14374,7 +14374,7 @@
                 }
             },
             "CPulseCell_Inflow_EventHandler": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -14471,7 +14471,7 @@
                 }
             },
             "CPulseCell_Step_DebugLog": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -14493,7 +14493,7 @@
                 "fields": {}
             },
             "CPulse_BlackboardReference": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -14538,7 +14538,7 @@
                 }
             },
             "CPulseCell_LimitCount__Criteria_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {
                     "m_bLimitCountPasses": 0
@@ -14562,7 +14562,7 @@
                 "fields": {}
             },
             "CCSPointScriptExtensions_CCSWeaponBaseVData": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -14580,7 +14580,7 @@
                 "fields": {}
             },
             "C_TeamplayRules": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {}
             },
@@ -14594,7 +14594,7 @@
                 }
             },
             "CPulseTestScriptLib": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -14675,7 +14675,7 @@
                 "fields": {}
             },
             "CEntityInstance": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "m_pEntity",
@@ -14695,7 +14695,7 @@
                 }
             },
             "C_GameRules": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "m_nTotalPausedTicks",
@@ -14768,7 +14768,7 @@
                 }
             },
             "CEconItemAttribute": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "m_iAttributeDefinitionIndex",
@@ -14941,7 +14941,7 @@
                 }
             },
             "CPulseCell_Outflow_CycleShuffled": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -14982,7 +14982,7 @@
                 "fields": {}
             },
             "CPrecipitationVData": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -15059,7 +15059,7 @@
                 }
             },
             "CCSPointScriptExtensions_entity": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -15177,7 +15177,7 @@
                 }
             },
             "C_BulletHitModel": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {
                     "m_hPlayerParent": 4508,
@@ -15189,7 +15189,7 @@
                 }
             },
             "CEffectData": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "m_vOrigin",
@@ -15347,7 +15347,7 @@
                 "fields": {}
             },
             "CTakeDamageInfoAPI": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -15370,7 +15370,7 @@
                 "fields": {}
             },
             "CPulseCell_LerpCameraSettings__CursorState_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -15506,7 +15506,7 @@
                 }
             },
             "CPulseCell_Value_RandomInt": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -15540,7 +15540,7 @@
                 "fields": {}
             },
             "PulseObservableBoolExpression_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -15709,7 +15709,7 @@
                 }
             },
             "CPulse_InvokeBinding": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -15725,7 +15725,7 @@
                 }
             },
             "CPulseCell_BaseValue": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -15770,7 +15770,7 @@
                 }
             },
             "SignatureOutflow_Continue": {
-                "parent": null,
+                "parent": "",
                 "metadata": [],
                 "fields": {}
             },
@@ -15780,7 +15780,7 @@
                 "fields": {}
             },
             "CPulseCell_IntervalTimer__CursorState_t": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
@@ -15806,7 +15806,7 @@
                 "fields": {}
             },
             "CCSPointScriptExtensions_player_controller": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MPulseLibraryBindings",
@@ -15824,7 +15824,7 @@
                 "fields": {}
             },
             "CPulseCell_PickBestOutflowSelector": {
-                "parent": null,
+                "parent": "",
                 "metadata": [
                     {
                         "name": "MGetKV3ClassDefaults",
